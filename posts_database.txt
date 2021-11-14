@@ -1,0 +1,134 @@
+
+Reporter_name: Tim
+Date: 23/11/2021
+Crime Type: Violence Against The Person
+Location: online
+CaseStatus: 
+Description: verbal abuse
+
+Reporter_name: Tim
+Date: 21/2/2020
+Crime Type: SeriousCrime
+Location: afesfasdfadsf
+CaseStatus: 
+Description: vcxzdffwefasdfaesfasdf
+
+Reporter_name: Tim
+Date: 19/10/2021
+Crime Type: SeriousCrime
+Location: saefasdsfahiuhi
+CaseStatus: 
+Description: vzoijpozinefoipjoijaj
+
+Reporter_name: Reporter name
+Date: Date
+Crime Type: SeriousCrime
+Location: Location/Address
+CaseStatus: 
+Description: Description
+
+Reporter_name: Tiffani
+Date: 19/08/2021
+Crime Type: Minor offences
+Location: fasfesaggdfsfe
+CaseStatus: 
+Description: cxzvoijpoi9ajiopejfpoijfs
+
+Reporter_name: Great
+Date: 09/02/2020
+Crime Type: Minor offences
+Location: faesasgosijeogo
+CaseStatus: 
+Description: zvjoidjovjopiwjeopaif
+
+Reporter_name: Pay
+Date: 02/02/2021
+Crime Type: Discussion
+Location: aseafasdggagsd
+CaseStatus: 
+Description: zxcvefaesfdfasasefas
+
+Reporter_name: Lucifa
+Date: 10/09/2021
+Crime Type: SeriousCrime
+Location: aoivoiejasfpojo
+CaseStatus: 
+Description: zvodjiofajpoeifasengoipgnp
+
+Reporter_name: Hey
+Date: 01/12/2021
+Crime Type: Notification
+Location: asfsegsfafsefesaf
+CaseStatus: 
+Description: zvpoijnioanwieopifnsejf
+
+Reporter_name: Joy
+Date: 18/09/2021
+Crime Type: Notification
+Location: faesfsgsfsdfafse
+CaseStatus: 
+Description: gadgefsefsdafaefasgadsf
+
+Reporter_name: Cray
+Date: 07/11/2020
+Crime Type: SeriousCrime
+Location: pfajoeihgiosh
+CaseStatus: 
+Description: saekjfnagkjopdjoijvjpojie
+
+Reporter_name: Joey
+Date: 02/12/2020
+Crime Type: SeriousCrime
+Location: oivhjoiejaoifjoiejopshegio
+CaseStatus: 
+Description: ceaoigpoihfoiajnshihghpo
+
+Reporter_name: George
+Date: 11/11/2021
+Crime Type: SeriousCrime
+Location: jvpzoiniouhjoiehj
+CaseStatus: 
+Description: naoifjoghjepsoihipoafjoipsdhipodhxipozvghopihvdiohoifhoidhdoihzpoiyhbioheiwehnefoinajokihsbdpiuovhoiehawsoivhopivhxzcidohgpoaewehgfapoi
+
+Reporter_name: Python
+Date: 12/11/2021
+Crime Type: SeriousCrime
+Location: vzoipeiwanflkhjpivohoi
+CaseStatus: 
+Description: aoipvnieonopifhpasoipdhvoipnvioahnepoihgoihgbnoiphvpoinpensoiphvbp
+
+Reporter_name: Ray
+Date: 17/10/2021
+Crime Type: SeriousCrime
+Location: zvjpoiewjakhf
+CaseStatus: 
+Description: nvoihoipahjpoiehfsoiphgoihsbpoihsds
+
+Reporter_name: Tester
+Date: 12/11/2021
+Crime Type: Notification
+Location: afoeisjngogjpoaefn
+CaseStatus: 
+Description: vzmoijfponwaeogopisj
+
+Reporter_name: Nearly
+Date: 13/11/2021
+Crime Type: SeriousCrime
+Location: afefevizxcvhj
+CaseStatus: 
+Description: afseljagopnicovnpoasniof
+
+Reporter_name: Almost
+Date: 13/11/2021
+Crime Type: SeriousCrime
+Location: jofaisnopgijopesfjaoip
+CaseStatus: 
+Description: zvnejapoifjnsidfoijppap
+
+Reporter_name: EXE testing
+Date: 13/11/2021
+Crime Type: SeriousCrime
+Location: London
+CaseStatus: 
+Description: testing after compiled to exe
+

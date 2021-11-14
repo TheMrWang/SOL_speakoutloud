@@ -1,0 +1,34 @@
+
+
+Reporter_name: Tim
+Date: 09/10/2021
+Crime Type: ajfoeisjfoi
+Location: nlkaseoifjnoiasjd
+Contact_number: 091829080
+CaseStatus: 
+Description: selkfmalksjgoijvpo
+
+Reporter_name: Alice
+Date: 10/10/2021
+Crime Type: oifapesjoigi
+Location: oaienfog
+Contact_number: 90192749720
+CaseStatus: 
+Description: faeslkljlgoiamcinmcoiesnf
+
+Reporter_name: Guy
+Date: 20/11/2021
+Crime Type: opiafiesihnoi
+Location: oiafneosifghngio
+Contact_number: 09784129798
+CaseStatus: 
+Description: fenmaslkjgoijoanvenklshja;lkaajh;gjh;fasefasffsadkjnhviu
+
+Reporter_name: Guy
+Date: 14/11/2021
+Crime Type: poinaogishoijsae
+Location: mzvxoijopwneapof
+Contact_number: 99017432987
+CaseStatus: 
+Description: ckajpoeisfgnnaopihgo
+

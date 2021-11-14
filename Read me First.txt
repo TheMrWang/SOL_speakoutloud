@@ -1,0 +1,13 @@
+The python programe is compile to exe through pyinstaller
+Then use NSIS to create installer based on zip file.
+
+Since this is a A desktop application that simulates the mobile phone environment.
+Meaning that a lot of features seem pointless, but the original idea was to create an actual mobile app
+which is not the best choice of using Python language. Even it is still possible to create apk file
+through kivy and few more other packages, the time is way too short to learn from fresh then build.
+
+Therefore i have chosen to develop the mobile like application with Tkinter.
+
+The exe file will not be terminated unless you click the quit button on the top of every page of the application,
+simply cross out the window will leave the application continue to run at the back. In that case, you have to use
+task manager to terminate the application.
